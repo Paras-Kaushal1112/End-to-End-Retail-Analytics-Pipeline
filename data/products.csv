@@ -1,0 +1,61 @@
+product_id,product_name,category,unit_price,cost_price
+1,Laptop Standard,Electronics,9433.89,4997.27
+2,Laptop Premium,Electronics,12735.75,8180.09
+3,Smartphone Standard,Electronics,2820.73,1453.35
+4,Smartphone Premium,Electronics,3807.99,2378.73
+5,Tablet Standard,Electronics,21143.44,15086.62
+6,Tablet Premium,Electronics,28543.64,19858.06
+7,Wireless Earbuds Standard,Electronics,47765.55,32959.05
+8,Wireless Earbuds Premium,Electronics,64483.49,43578.58
+9,Smart Watch Standard,Electronics,1562.66,1025.93
+10,Smart Watch Premium,Electronics,2109.6,1118.34
+11,Bluetooth Speaker Standard,Electronics,1900.88,1024.77
+12,Bluetooth Speaker Premium,Electronics,2566.18,1811.27
+13,Monitor Standard,Electronics,30220.59,22278.41
+14,Monitor Premium,Electronics,40797.8,30383.92
+15,Webcam Standard,Electronics,55247.27,29459.59
+16,Webcam Premium,Electronics,74583.81,53670.19
+17,Power Bank Standard,Electronics,44309.51,31804.1
+18,Power Bank Premium,Electronics,59817.84,32177.3
+19,Mechanical Keyboard Standard,Electronics,2403.62,1756.93
+20,Mechanical Keyboard Premium,Electronics,3244.89,1763.46
+21,Office Chair Standard,Furniture,8140.56,4998.27
+22,Office Chair Premium,Furniture,10989.75,5836.77
+23,Standing Desk Standard,Furniture,3172.41,2374.62
+24,Standing Desk Premium,Furniture,4282.75,3080.0
+25,Bookshelf Standard,Furniture,35490.65,20270.16
+26,Bookshelf Premium,Furniture,47912.37,26592.58
+27,Filing Cabinet Standard,Furniture,9505.59,5830.06
+28,Filing Cabinet Premium,Furniture,12832.55,6434.24
+29,Sofa Standard,Furniture,24751.07,18542.68
+30,Sofa Premium,Furniture,33413.95,21123.39
+31,Coffee Table Standard,Furniture,8585.17,5135.55
+32,Coffee Table Premium,Furniture,11589.98,6073.37
+33,Dining Table Standard,Furniture,6168.11,3858.36
+34,Dining Table Premium,Furniture,8326.94,5062.46
+35,Wardrobe Standard,Furniture,13125.98,9349.19
+36,Wardrobe Premium,Furniture,17720.08,9857.87
+37,Bed Frame Standard,Furniture,3233.38,1647.59
+38,Bed Frame Premium,Furniture,4365.06,2328.94
+39,TV Unit Standard,Furniture,14062.46,9872.5
+40,TV Unit Premium,Furniture,18984.32,13701.01
+41,Notebook Pack Standard,Office Supplies,673.44,404.59
+42,Notebook Pack Premium,Office Supplies,909.14,489.69
+43,Ballpoint Pens Standard,Office Supplies,258.67,150.83
+44,Ballpoint Pens Premium,Office Supplies,349.21,250.56
+45,Stapler Standard,Office Supplies,366.8,204.14
+46,Stapler Premium,Office Supplies,495.18,283.34
+47,Printer Paper Ream Standard,Office Supplies,87.42,63.79
+48,Printer Paper Ream Premium,Office Supplies,118.02,60.5
+49,Whiteboard Standard,Office Supplies,52.7,28.76
+50,Whiteboard Premium,Office Supplies,71.15,50.0
+51,Desk Organizer Standard,Office Supplies,426.36,279.89
+52,Desk Organizer Premium,Office Supplies,575.58,339.27
+53,Highlighters Standard,Office Supplies,66.24,47.3
+54,Highlighters Premium,Office Supplies,89.42,49.0
+55,Sticky Notes Standard,Office Supplies,57.25,36.82
+56,Sticky Notes Premium,Office Supplies,77.28,40.25
+57,Binder Set Standard,Office Supplies,74.0,51.81
+58,Binder Set Premium,Office Supplies,99.9,62.23
+59,Label Printer Standard,Office Supplies,134.4,78.91
+60,Label Printer Premium,Office Supplies,181.44,123.8
